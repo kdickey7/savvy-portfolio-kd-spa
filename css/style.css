@@ -1,0 +1,82 @@
+header {
+  margin-top: 10em;
+}
+
+body {
+  background-color: #EDC7B7;
+  color: #123C69;
+}
+
+  nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2.5em;
+  width: 100vw;
+  background-color: #BAB2B5;
+  }
+
+  nav>ul.ul-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  nav li {
+    display: inline;
+    list-style-type: none;
+  }
+
+.profilepicture{
+  margin-top: 100px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+  .container {
+    margin-top: : 100px;
+    overflow: auto;
+  }
+.content{
+
+}
+
+  .blogcontent {
+    /*float: left;*/
+    /*width: 75%;*/
+  }
+
+  .sidebar {
+    /*float:left;*/
+    /*width: 25%;*/
+  }
+
+.headerfooter {
+  margin-top: 200px;
+  }
+
+#greeting {
+  background-color: pink;
+  color: blue
+}
+
+div>p {
+  font-size: 1em;
+}
+
+.highlighted {
+  font-weight: bolder;
+  color: skyblue;
+}
+
+.loser{
+  background-color: red;
+}
+
+
+.winner{
+  background-color: green;
+}
