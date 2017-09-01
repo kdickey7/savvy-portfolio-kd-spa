@@ -87,3 +87,11 @@ div>p {
 .winner{
   background-color: green;
 }
+
+.hidden {
+  display: none;
+}
+
+.page-container {
+  margin-top: 80px;
+}
