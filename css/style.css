@@ -7,6 +7,13 @@ body {
   color: #123C69;
 }
 
+/*body {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNDcXtdxlR_YX1m3VLsWhh6J-Rd0EiABjxUP4u1pBc_2uI6P4) center slategray;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}*/
+
   nav {
   position: fixed;
   top: 0;
